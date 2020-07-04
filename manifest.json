@@ -1,0 +1,21 @@
+{
+    "name": "Stick-it Notes by SimSim",
+    "short_name": "Stick-it",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+      {
+        "src": "Sticky-Notes.jpg",
+        "sizes": "192x192",
+        "type": "image/jpg"
+      },
+      {
+        "src": "Sticky-Notes.jpg",
+        "sizes": "512x512",
+        "type": "image/jpg"
+      }
+    ],
+    "theme_color": "#ffd31d",
+    "background_color": "#333",
+    "display": "standalone"
+  }
